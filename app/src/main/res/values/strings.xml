@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BulletProof</string>
+    <string name="lost">YOU LOST</string>
+    <string name="REJOUER">TRY AGAIN</string>
+    <string name="SCORE">YOUR SCORE IS : </string>
+    <string name="START">START</string>
+    <string name="best">BEST : </string>
+</resources>
